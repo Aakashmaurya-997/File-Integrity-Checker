@@ -6,7 +6,7 @@
 
 *INTERN ID*: CT04WS67
 
-*DOMAIN*: Cyber Security & Ethical Hacking
+*DOMAIN*: CYBER SECURITY & ETHICAL HACKING 
 
 *DURATION*: 4 WEEKS
 
