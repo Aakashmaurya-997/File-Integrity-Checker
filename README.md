@@ -102,6 +102,10 @@ It demonstrates how powerful even basic cryptographic hashing can be when applie
 
 ### Step 1: Install Required Libraries
 
+*(Only built-in libraries used for this project. No need to install external libraries.)*
+
+*If needed:*
+
 ```bash
 pip install requests beautifulsoup4 cryptography
 ```
