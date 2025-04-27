@@ -102,7 +102,9 @@ It demonstrates how powerful even basic cryptographic hashing can be when applie
 
 ### Step 1: Install Required Libraries
 
-*(Only built-in libraries used. No need to install anything extra.)*
+```bash
+pip install requests beautifulsoup4 cryptography
+```
 
 ### Step 2: Run the Script
 
