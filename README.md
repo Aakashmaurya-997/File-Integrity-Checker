@@ -64,8 +64,7 @@ Conclusion:
 This File Integrity Checker is a simple yet effective security solution that strengthens the first line of defense against data integrity threats. It demonstrates how powerful even basic cryptographic hashing can be when applied thoughtfully in cybersecurity contexts.
 
 # OUTPUT
-
-
+![Image](https://github.com/user-attachments/assets/63d2b762-02ab-4ffb-985b-c22f070235d4)
 
 ## ⚙️ How to run
 
